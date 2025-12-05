@@ -1,0 +1,5 @@
+{
+  "name": "ClearView AI - Watermark Remover",
+  "description": "A powerful web application that uses advanced AI to automatically detect and remove watermarks from images. Upload your image and get a clean result in seconds.",
+  "requestFramePermissions": []
+}
